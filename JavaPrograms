@@ -2,6 +2,6 @@ import java.io.*;
 import java.util.*;
 public class PrintHello{
   public static void main(String arg[]){
-    System.out.println("Helo");
+    System.out.println("Hello");
   }
 }
